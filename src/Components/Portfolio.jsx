@@ -28,6 +28,9 @@ const imageAltText = "A photo of a laptop on a table. The laptop is open and tur
  *
  * An array of objects that will be used to display for your project
  * links section. Below is a sample, update to reflect links you'd like to highlight.
+ * 
+ * TODO: Update the projectList array with my own projects.
+ * 
  */
 const projectList = [
   {
